@@ -53,9 +53,9 @@ class PyTest(TestCommand):
         sys.exit(errno)
 
 setup(
-    name='Flask-JWT',
-    version='0.3.2',
-    url='https://github.com/mattupstate/flask-jwt',
+    name='Flask-JWT-Uelei',
+    version='0.3.3',
+    url='https://github.com/uelei/flask-jwt',
     license='MIT',
     author='Matt Wright',
     author_email='matt@nobien.net',
